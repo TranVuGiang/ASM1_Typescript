@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Giỏ Hàng</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body>
+    <div id="navbar"></div>
+    
+    <div class="w-full max-w-7xl mx-auto mt-6 p-4">
+        <h1 class="text-3xl font-bold text-red-700">GIỎ HÀNG</h1>
+    </div>
+    
+    <div id="cart-items" class="w-full max-w-7xl mx-auto p-4">
+        <!-- Các sản phẩm trong giỏ hàng sẽ được hiển thị ở đây -->
+    </div>
+
+    <div id="total-price" class="w-full max-w-7xl mx-auto p-4 text-right">
+        <h2 class="text-xl font-bold">Tổng giá: <span id="total-amount">0</span> VND</h2>
+    </div>
+
+    <div class="w-full max-w-7xl mx-auto p-4 text-right">
+        <button id="checkout-btn" class="bg-green-600 text-white px-6 py-2 rounded-md hover:bg-green-700 transition duration-300">
+            Thanh toán
+        </button>
+    </div>
+
+    <div id="footer"></div>
+
+    <script src="../js/components/navbar.js"></script>
+    <script src="../js/pages/cart.js"></script>
+    <script src="../js/components/footer.js"></script>
+</body>
+</html>

@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+      "outDir": "js", //Dịch mã TS vào JS
+      "target": "ES2023",
+      "removeComments": true,
+      "noEmit": false
+  },
+
+  "exclude": [
+      "css"
+  ]
+}

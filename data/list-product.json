@@ -1,0 +1,60 @@
+{
+  "list-product-home": [
+    {
+      "id": "1",
+      "nameProduct": "Nike Air Force 1 '07 Men's Shoes",
+      "price": "3,239,000",
+      "trademark": "Nike",
+      "image": "https://static.nike.com/a/images/t_default/cc540e66-3b4e-4e64-a537-cf089a7ca84e/AIR+FORCE+1+%2707.png"
+    },
+    {
+      "id": "2",
+      "nameProduct": "Adidas Ultraboost 21 Men's Shoes",
+      "price": "4,199,000",
+      "trademark": "Adidas",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61Ami+KsjbL.jpg"
+    },
+    {
+      "id": "3",
+      "nameProduct": "Puma Suede Classic XXI Men's Shoes",
+      "price": "2,999,000",
+      "trademark": "Puma",
+      "image": "https://i.ebayimg.com/images/g/X9IAAOSwlXtimpbb/s-l1200.png"
+    },
+    {
+      "id": "4",
+      "nameProduct": "Converse Chuck Taylor All Star Men's Shoes",
+      "price": "1,799,000",
+      "trademark": "Converse",
+      "image": "https://www.courir.com/dw/image/v2/BCCL_PRD/on/demandware.static/-/Sites-master-catalog-courir/default/dw283bcfc7/images/hi-res/001201924_101.png?sw=600&sh=600&sm=fit&q=90"
+    },
+    {
+      "id": "5",
+      "nameProduct": "New Balance 574 Core Men's Shoes",
+      "price": "2,499,000",
+      "trademark": "New Balance",
+      "image": "https://luckyfeetshoes.com/cdn/shop/files/MineShopifyProductPhotos_8_26f73a7e-d7f5-4ba8-8bf4-b7c4bc380a02_600x.png?v=1715023681"
+    },
+    {
+      "id": "6",
+      "nameProduct": "Vans Old Skool Men's Shoes Hehee",
+      "price": "1,999,000",
+      "trademark": "Vans",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz6CHMqzcllLU56a4463oKhUQsHVgFny2NEg&s"
+    },
+    {
+      "id": "7",
+      "nameProduct": "Reebok Classic Leather Men's Shoes",
+      "price": "2,299,000",
+      "trademark": "Reebok",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3rBvt8lTCo3qCydtBhq-jXQ7SpFJYlyQujQ&s"
+    },
+    {
+      "id": "8",
+      "nameProduct": "Asics Gel-Kayano 27 Men's Shoes",
+      "price": "4,499,000",
+      "trademark": "Asics",
+      "image": "https://shop.5undergolf.com/cdn/shop/files/Untitleddesign-2023-07-12T154543.693_1280x.png?v=1689194810"
+    }
+  ]
+}
